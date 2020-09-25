@@ -9,5 +9,7 @@ sudo pip install tensorflow keras nltk
 ```
 
 ## running
-``` python train_chatbot.py ```
+``` 
+python train_chatbot.py 
+```
 
